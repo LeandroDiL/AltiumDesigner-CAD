@@ -1,0 +1,34 @@
+Change Component Footprint: Designator=C1 Old Footprint=C 0603 New Footprint=0603 Comp
+Change Component Footprint: Designator=C2 Old Footprint=C 0603 New Footprint=0603 Comp
+Change Component Footprint: Designator=C3 Old Footprint=C 0603 New Footprint=0603 Comp
+Change Component Footprint: Designator=C4 Old Footprint=C 0603 New Footprint=0603 Comp
+Change Component Footprint: Designator=C5 Old Footprint=C 0603 New Footprint=0603 Comp
+Change Component Footprint: Designator=C6 Old Footprint=C 0603 New Footprint=0603 Comp
+Change Component Footprint: Designator=C7 Old Footprint=C 0603 New Footprint=0603 Comp
+Change Component Footprint: Designator=L1 Old Footprint=L 06063 New Footprint=0603 Comp
+Change Component Footprint: Designator=L2 Old Footprint=L 06063 New Footprint=0603 Comp
+Change Component Footprint: Designator=R1 Old Footprint=R 0603 New Footprint=0603 Comp
+Change Component Footprint: Designator=R2 Old Footprint=R 0603 New Footprint=0603 Comp
+Change Component Footprint: Designator=R3 Old Footprint=R 0603 New Footprint=0603 Comp
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=+5V Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=-5V Pin=C4-2
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Pin To Net: NetName=U_OUT Pin=C5-2
+Added Pin To Net: NetName=NetC6_1 Pin=C6-1
+Added Pin To Net: NetName=NetC5_1 Pin=C6-2
+Added Pin To Net: NetName=-5V Pin=C7-1
+Added Pin To Net: NetName=NetC7_2 Pin=C7-2
+Added Pin To Net: NetName=NetC1_2 Pin=L1-1
+Added Pin To Net: NetName=+5V Pin=L1-2
+Added Pin To Net: NetName=NetC3_2 Pin=L2-1
+Added Pin To Net: NetName=-5V Pin=L2-2
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-3
+Add Pin To Net: Unknown Pin: Pin U1-4
+Added Room: Name=esame1207schematico
