@@ -1,1 +1,3 @@
-*.h linguist-language=Altium Designer
+*.Cam linguist-language=AltiumDesigner
+*.PcbLib linguist-language=AltiumDesigner
+*.SchLib linguist-language=AltiumDesigner
