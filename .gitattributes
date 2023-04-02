@@ -1,3 +1,2 @@
-*.Cam linguist-language=AltiumDesigner
-*.PcbLib linguist-language=AltiumDesigner
-*.SchLib linguist-language=AltiumDesigner
+* linguist-vendored
+*.SchLib linguist-vendored=false
